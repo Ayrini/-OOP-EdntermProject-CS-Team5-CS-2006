@@ -2,7 +2,7 @@
 Mambediyev Assan
 Bektrumov Tamerlan
 We have 5 folders where classes and interfaces are stored. Number of classes 10, interfaces 2
--------------------------
+=======================
 bank(package)
 [
 BankInfo(class)//Bank info contains Bank info contains information about the bank, such as the name of the bank, the amount of money in the bank, the number of employees and clients, as well as the currency of the bank
@@ -20,7 +20,7 @@ DBsystem(class)//in DBsystem we have methods such like refresh, which refreshing
 
 INTdatabse(interface)
 ]
--------------------------
+=======================
 exception(package)
 [
 UserExistsException(class)//here we have an exception for an error when adding a user who is already in the system. This exception is used in the BankSystem class 
