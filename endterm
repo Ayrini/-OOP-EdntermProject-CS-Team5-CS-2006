@@ -1,1 +1,4 @@
-
+Topic BANK SYSTEM
+We made a database of the bank, which contains information about clients and bank employees.
+Here you can also transfer money to another client, change currency.
+The data is stored in postgresql and can be downloaded into the compiler for further work, as well as change the data in postgresql.
